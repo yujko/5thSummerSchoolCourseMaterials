@@ -1,6 +1,6 @@
 This repository collects the course materials during [5th Summer School on Computational Interaction](http://computationalhci2019.com/).
 
-The following links were the origins of the course from the instructors. These materials will be updated in this repo.
+The following links are the origins of the course from the instructors. These materials will be updated in this repo.
 
 + Antti Oulasvirta, Aalto University, Finland
 + Anna Maria Feit, ETH Zurich, Switzerland
