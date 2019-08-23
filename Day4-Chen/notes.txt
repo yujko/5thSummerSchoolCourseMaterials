@@ -1,0 +1,16 @@
+notes:
+
+- you can use whichever
+- show a slide that includes all the info
+- encourage them to code (otherwise just thinking seems boring; coding keeps them more engaged)
+
+- what explanation strategies/techniques did you use?
+- if you were to do it again, how would you explain it differently?
+
+
+00:05  intro
+00:30  developing the recognizer (maybe as individuals)
+00:15  think about explanation (only took 5min?)
+- share your solution by explaining it
+- what strategies/techniques did you use
+00:10  present your explanation
